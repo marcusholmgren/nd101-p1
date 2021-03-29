@@ -62,7 +62,7 @@ protobuf==3.1.0.post1
 ptyprocess==0.5.1
 pyasn1==0.1.9
 pycparser==2.17
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==16.2.0
 pyparsing==2.1.10
 python-dateutil==2.6.0
