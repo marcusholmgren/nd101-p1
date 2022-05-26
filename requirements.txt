@@ -79,7 +79,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
 SQLAlchemy==1.1.4
-tensorflow==0.12.1
+tensorflow==2.7.2
 terminado==0.6
 testpath==0.3
 tornado==4.4.2
