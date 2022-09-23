@@ -58,7 +58,7 @@ pdftables.six==0.0.5
 pexpect==4.2.1
 pickleshare==0.7.4
 prompt-toolkit==1.0.9
-protobuf==3.1.0.post1
+protobuf==3.18.3
 ptyprocess==0.5.1
 pyasn1==0.1.9
 pycparser==2.17
