@@ -41,6 +41,42 @@ This script will:
 3. Print performance metrics (RMSE, R2).
 4. Save a visualization of the predictions to `results_test_set_predictions.png`.
 
+
+#### 3.1 Marmimo
+
+```bash
+```bash
+ uv run marimo edit dlnd-your-first-neural-network.py
+```
+```   
+```
+```
+```
+
+
+
+```
+```
+```
+``` 
+```   
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
 ---
 
 ## Project Structure
